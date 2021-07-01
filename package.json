@@ -1,0 +1,19 @@
+{
+  "name": "hello-node-js-app",
+  "version": "1.0.0",
+  "description": "Simple Hello Node.js App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.compaurav11hello-node-js-app.git"
+  },
+  "keywords": [
+    "hello-app"
+  ],
+  "author": "Paurav Shah",
+  "license": "ISC"
+}
